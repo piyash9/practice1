@@ -47,7 +47,21 @@
 
 
 #variable Casting
-x = float("2.1255414")
-print(x)
+# x = float("2.1255414")
+# print(x)
+
+# bolleans variable
+# print(bool("Hello"))
+# print(bool(0))
+# print(bool(False))
+# print(bool(None))
+# print(bool(0))
+# print(bool(""))
+# print(bool(()))
+# print(bool([]))
+# print(bool({}))
+
+
+print(1<<3)
 
 
