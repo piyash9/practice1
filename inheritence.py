@@ -17,7 +17,7 @@ class C(B, A):
     def __init__(self):
         super().__init__()
     # def f1(self):
-    #     print("call the fun f3")
+    #     print("call the fun f3")  
 
 a = C()
 a.f1()
